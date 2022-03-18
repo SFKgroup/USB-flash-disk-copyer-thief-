@@ -1,5 +1,8 @@
 # U_copyer 2.0 使用指南
 
+###### 请在法律允许范围内使用本项目
+###### Please use this programe legally
+
 ### 一、安装方法:
 
 #### 		1.在*makeU.py*中制作自己的管理员U盘:
